@@ -5,4 +5,14 @@
 
 > 再次打扰了，我想做一下尾部三维的涡结构，可是为什么创建contour等值面时，contour by后面的选项只有压力P和nut，并没有后来vorticity命令计算出来的变量vorticity，vorticity只能以云图的形式出现，我需要怎样创建wake的结构呢？
 
+因为你的数据中没有包含 vorticity。 通常来讲，你需要在后处理的过程中来处理。比如 (OF v4.1)：
+
+```
+pisoFoam -postProcess -func -vorticity
+```
+
+不清楚云图是指？ 我觉得你指的是 contour?
+
+就我个人来讲， 对尾流区涡状结构的宏观分析，我会选用一些准则：
+
 * 打包的问题
