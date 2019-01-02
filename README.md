@@ -11,6 +11,12 @@
 pisoFoam -postProcess -func -vorticity
 ```
 
+实际上，漩涡在数学上的定义是速度的旋度：curl of velocity
+
+\begin{equations}
+\omega = \daosanjiao X V
+\end{equations}
+
 不清楚云图是指？ 我觉得你指的是 contour?
 
 就我个人来讲， 对尾流区涡状结构的宏观分析，我会选用一些准则：
