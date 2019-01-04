@@ -26,4 +26,5 @@ example: [so cool](http://cfd-china.com/topic/2133/paraview%E8%BE%93%E5%87%BA%E5
 ## [c++ 模板](http://cfd-china.com/topic/2127/%E5%85%B3%E4%BA%8Etmp-volscalarfield-%E7%94%A8%E6%B3%95%E7%9A%84%E7%96%91%E9%97%AE)
 ## [静电场](http://www.cfd-china.com/topic/2132/%E9%A2%97%E7%B2%92%E7%94%B5%E9%87%8F)
 ## [zishiying](http://cfd-china.com/topic/612/%E4%BA%8C%E7%BB%B4%E8%87%AA%E9%80%82%E5%BA%94%E7%BD%91%E6%A0%BC/18)
+## [question inlet](http://cfd-china.com/topic/2133/paraview%E8%BE%93%E5%87%BA%E5%B0%BE%E6%B6%A1/2)
 # 打包过的问题
