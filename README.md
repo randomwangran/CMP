@@ -22,5 +22,5 @@ pisoFoam -postProcess -func -vorticity
 就我个人来讲， 对尾流区涡状结构的宏观分析，我会选用一些准则：
 
 ## [c++ 模板](http://cfd-china.com/topic/2127/%E5%85%B3%E4%BA%8Etmp-volscalarfield-%E7%94%A8%E6%B3%95%E7%9A%84%E7%96%91%E9%97%AE)
-
+## [静电场](http://www.cfd-china.com/topic/2132/%E9%A2%97%E7%B2%92%E7%94%B5%E9%87%8F)
 # 打包过的问题
