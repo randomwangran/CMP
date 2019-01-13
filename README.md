@@ -15,7 +15,7 @@ pisoFoam -postProcess -func -vorticity
 
 ```latex
 \begin{equations}
-\omega = \nabla \cdot  V
+\omega = \nabla \times  V
 \end{equations}
 ```
 <a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;=&space;\nabla&space;\times&space;V" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega&space;=&space;\nabla&space;\times&space;V" title="\omega = \nabla \times V" /></a>
