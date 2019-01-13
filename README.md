@@ -18,7 +18,7 @@ pisoFoam -postProcess -func -vorticity
 \omega = \nabla \cdot  V
 \end{equations}
 ```
-<a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;=&space;\nabla&space;\cdot&space;V" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega&space;=&space;\nabla&space;\cdot&space;V" title="\omega = \nabla \cdot V" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;=&space;\nabla&space;\times&space;V" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega&space;=&space;\nabla&space;\times&space;V" title="\omega = \nabla \times V" /></a>
 
 
 漩涡在流体力学中经常被用到，但是如果深入探讨这个概念，其实这不是一个假单的概念。
