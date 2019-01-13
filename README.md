@@ -3,9 +3,9 @@
 
 ## [等值面](http://cfd-china.com/topic/664/cd%E8%AE%A1%E7%AE%97%E4%B8%8D%E5%87%86%E7%9A%84%E9%97%AE%E9%A2%98-les-re3900-%E4%B8%89%E7%BB%B4%E5%9C%86%E6%9F%B1%E7%BB%95%E6%B5%81-pisofoam/1040)
 
-> 再次打扰了，我想做一下尾部三维的涡结构，可是为什么创建contour等值面时，contour by后面的选项只有压力P和nut，并没有后来vorticity命令计算出来的变量vorticity，vorticity只能以云图的形式出现，我需要怎样创建wake的结构呢？
+> 再次打扰了，我想做一下尾部三维的涡结构，可是为什么创建 contour 等值面时，contour by 后面的选项只有压力 P 和 nut ，并没有后来 vorticity 命令计算出来的变量 vorticity，vorticity 只能以云图的形式出现，我需要怎样创建 wake 的结构呢？
 
-因为你的数据中没有包含 vorticity。 通常来讲，你需要在后处理的过程中来处理。比如 (OF v4.1)：
+因为你的数据中没有包含 vorticity。 通常来讲，你需要在后处理的过程中来处理。比如 ( OF v4.1 )：
 
 ```
 pisoFoam -postProcess -func -vorticity
@@ -14,7 +14,7 @@ pisoFoam -postProcess -func -vorticity
 实际上，漩涡在数学上的定义是速度的旋度：curl of velocity
 
 \begin{equations}
-\omega = \daosanjiao X V
+\omega = \nabla \dot V
 \end{equations}
 
 漩涡在流体力学中经常被用到，但是如果深入探讨这个概念，其实这不是一个假单的概念。
