@@ -13,9 +13,13 @@ pisoFoam -postProcess -func -vorticity
 
 实际上，漩涡在数学上的定义是速度的旋度：curl of velocity
 
+```latex
 \begin{equations}
-\omega = \nabla \dot V
+\omega = \nabla \cdot  V
 \end{equations}
+```
+<a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;=&space;\nabla&space;\cdot&space;V" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega&space;=&space;\nabla&space;\cdot&space;V" title="\omega = \nabla \cdot V" /></a>
+
 
 漩涡在流体力学中经常被用到，但是如果深入探讨这个概念，其实这不是一个假单的概念。
 
