@@ -17,8 +17,11 @@ pisoFoam -postProcess -func -vorticity
 \omega = \daosanjiao X V
 \end{equations}
 
-不清楚云图是指？ 我觉得你指的是 contour?
+漩涡在流体力学中经常被用到，但是如果深入探讨这个概念，其实这不是一个假单的概念。
 
+> The notion of a vortex is so widely used in fluid dynamics that few pause to examine what the word strictly means. Those who do take a closer look quickly realize the difficulty of defining vortices unambiguously.
+
+Chong et al. (1990) 年的时候，用速度梯度的特征根，在拉格朗日座标系下讨论了流场中任意一点的流场特征。他们说流场核心的区域就是速度梯度的复特征值。
 就我个人来讲， 对尾流区涡状结构的宏观分析，我会选用一些准则：
 
 example: [so cool](http://cfd-china.com/topic/2133/paraview%E8%BE%93%E5%87%BA%E5%B0%BE%E6%B6%A1/2)
