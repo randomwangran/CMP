@@ -54,6 +54,8 @@ if (phase1_.divU().valid() && phase2_.divU().valid())
 ### 什么是结构网格
 ### 什么是非结构网格
 ### OF 用的什么方法来对网格进行编号？
+### 参考资料
+[节点or体心?](https://mp.weixin.qq.com/s/lU125w8CgGHYU1Qvdzm3kQ)
 
 # 打包过的问题
 
