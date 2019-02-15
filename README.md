@@ -57,6 +57,8 @@ if (phase1_.divU().valid() && phase2_.divU().valid())
 ### 参考资料
 [节点or体心?](https://mp.weixin.qq.com/s/lU125w8CgGHYU1Qvdzm3kQ)
 
+## [通量不要求压力](http://cfd-china.com/topic/2260/fsifoam-flux-requested-but-p-not-specified-in-fluxrequired)
+
 # 打包过的问题
 
 # 用到的工具
