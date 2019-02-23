@@ -13,6 +13,7 @@
    :CUSTOM_ID: 灰沉积
    :END:
 
+   从刘开琪研究员提供的图片上来看, 
 ** [[http://cfd-china.com/topic/664/cd%E8%AE%A1%E7%AE%97%E4%B8%8D%E5%87%86%E7%9A%84%E9%97%AE%E9%A2%98-les-re3900-%E4%B8%89%E7%BB%B4%E5%9C%86%E6%9F%B1%E7%BB%95%E6%B5%81-pisofoam/1040][等值面]]
    :PROPERTIES:
    :CUSTOM_ID: 等值面
