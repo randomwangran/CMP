@@ -12,7 +12,7 @@
 pisoFoam -postProcess -func -vorticity
 ```
 
-实际上，漩涡在数学上的定义是速度的旋度：curl of velocity
+漩涡在数学上的定义是速度的旋度：curl of velocity
 
 ```latex
 \begin{equations}
