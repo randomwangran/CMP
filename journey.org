@@ -159,11 +159,12 @@ example:
 ** why there are two classes for intrusive linked lists?
 ** why UIList doesn't have a destructor, wheras UUList has?
 ** every classs should have its destructor?
+** why there is no declaration of class LListBase ?
 ** some thoughts:
 
  Inheritance:
 
- cloud <- IDLList<ParticleType> or ILList <- LListBase
+ cloud -> IDLList<ParticleType> or ILList -> LListBase
 
 
  #+begin_src c++
