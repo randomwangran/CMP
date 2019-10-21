@@ -156,6 +156,64 @@ example:
 * [[http://cfd-china.com/topic/2998/%25E8%25AF%25B7%25E9%2597%25AE%25E5%25A4%25A7%25E7%25A5%259E%25E4%25BB%25AC-%25E8%25BF%2599%25E4%25B8%25AA%25E5%2587%25BD%25E6%2595%25B0%25E6%259C%2580%25E5%2590%258E%25E5%2588%25B0%25E5%25BA%2595%25E6%258C%2587%25E5%2590%2591%25E4%25BA%2586%25E5%2593%25AA-this-append-pptr][this->append(pPtr)]]
 ** which append() of this function is really using?
 ** what's the difference between intrusive and non-intrusive lists?
+From my very shallow understanding, the intrusive list can be imagined
+like the following thing. If I want to collect a bunch of data of a
+group people's house in a town. I would create a label like this:
+
+              ---------------------
+             |                     |
+             |     123 Road        |
+             |                     |
+             +---------------------+
+             | Next:               |
+             |                     |
+             |     456 Road        |
+             +---------------------+
+
+I would like to ask each of the house owner to put this label outside
+of their doors. Then label the last owner's index card as:
+
+              ---------------------
+             |                     |
+             |     923 Road        |
+             |                     |
+             +---------------------+
+             | Next:               |
+             |                     |
+             |     NULL            |
+             +---------------------+
+
+So, as long as I ask a postman to the first home, he can automatically
+gather all house information of that group of people in the town. For
+example, he can check that how many TVs are there in each house and
+further deduce the total number of TVs of that particular group of
+people.
+
+
+For the non-intrusive list, the address label does not have a close
+geophysical location as the intrusive list. In stead, the house could
+be located in another city. For example, the label such as:
+
+              ---------------------
+             |                     |
+             |     123 Road        |
+             |                     |
+             +---------------------+
+             | Next:               |
+             |                     |
+             |  456 Road (China)   |
+             +---------------------+
+
+is sticked to a telephone pole not the house. In this case, the
+postman can still access the information of the house of the group of
+people, but the speed to gather all the information would be extremely
+slow.
+
+
+Sticking a address in a non-intrusive manner would be non-sense as the
+example I just given, but I could not find a better analogy to the
+difference between intrusive and non-intrusive list.
+
 ** why there are two classes for intrusive linked lists?
 ** why UIList doesn't have a destructor, wheras UUList has?
 ** every classs should have its destructor?
