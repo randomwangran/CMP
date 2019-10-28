@@ -20,14 +20,14 @@
    :END:
 
 #+BEGIN_QUOTE
-  再次打扰了，我想做一下尾部三维的涡结构，可是为什么创建 contour
-  等值面时，contour by 后面的选项只有压力 P 和 nut ，并没有后来
-  vorticity 命令计算出来的变量 vorticity，vorticity
-  只能以云图的形式出现，我需要怎样创建 wake 的结构呢？
+  再次打扰了，我想做一下尾部三维的涡结构，可是为什么创建 contour等值面
+  时，contour by 后面的选项只有压力 P 和 nut ，并没有后来vorticity 命
+  令计算出来的变量 vorticity，vorticity只能以云图的形式出现，我需要怎
+  样创建 wake 的结构呢？
 #+END_QUOTE
 
-因为你的数据中没有包含 vorticity。
-通常来讲，你需要在后处理的过程中来处理。比如 ( OF v4.1 )：
+因为你的数据中没有包含 vorticity。通常来讲，你需要在后处理的过程中来处
+理。比如 ( OF v4.1 )：
 
 #+BEGIN_EXAMPLE
     pisoFoam -postProcess -func -vorticity
@@ -41,7 +41,8 @@
     \end{equations}
 #+END_SRC
 
-漩涡在流体力学中经常被用到，但是如果深入探讨这个概念，其实这不是一个假单的概念。
+漩涡在流体力学中经常被用到，但是如果深入探讨这个概念，其实这不是一个简
+单的概念。
 
 #+BEGIN_QUOTE
   The notion of a vortex is so widely used in fluid dynamics that few
@@ -50,15 +51,14 @@
   unambiguously.
 #+END_QUOTE
 
-Chong et al. (1990)
-年的时候，用速度梯度的特征根，在拉格朗日座标系下讨论了流场中任意一点的流场特征。他们说流场核心的区域就是速度梯度的复特征值。
-就我个人来讲， 对尾流区涡状结构的宏观分析，我会选用一些准则：
+Chong et al. (1990)年的时候，用速度梯度的特征根，在拉格朗日座标系下讨
+论了流场中任意一点的流场特征。他们说流场核心的区域就是速度梯度的复特征
+值。就我个人来讲， 对尾流区涡状结构的宏观分析，我会选用一些准则：
 
 example:
 [[http://cfd-china.com/topic/2133/paraview%E8%BE%93%E5%87%BA%E5%B0%BE%E6%B6%A1/2][so cool]]
 
-** [[http://cfd-china.com/topic/2127/%E5%85%B3%E4%BA%8Etmp-volscalarfield-%E7%94%A8%E6%B3%95%E7%9A%84%E7%96%91%E9%97%AE][c++
-模板]]
+** [[http://cfd-china.com/topic/2127/%E5%85%B3%E4%BA%8Etmp-volscalarfield-%E7%94%A8%E6%B3%95%E7%9A%84%E7%96%91%E9%97%AE][c++模板]]
    :PROPERTIES:
    :CUSTOM_ID: c-模板
    :END:
@@ -133,6 +133,12 @@ example:
    :CUSTOM_ID: 通量不要求压力
    :END:
 
+** [[http://cfd-china.com/topic/3028/%25E5%2585%25B3%25E4%25BA%258Eles%25E4%25B8%25AD-%25E6%25B1%2582%25E4%25BA%259A%25E6%25A0%25BC%25E5%25AD%2590%25E5%25B0%25BA%25E5%25BA%25A6%25E5%25BA%2594%25E5%258A%259Bsgs-stress%25E7%259A%2584%25E9%2597%25AE%25E9%25A2%2598][关于LES中，求亚格子尺度应力SGS stress的问]]
+1. difference between SGS velocity
+2. what is convective flux?
+3. how convective flux can be re-written into four terms?
+4. why zhangxco223 don't consider Leonard stress and cross-term
+   stress?
 * 打包过的问题
   :PROPERTIES:
   :CUSTOM_ID: 打包过的问题
