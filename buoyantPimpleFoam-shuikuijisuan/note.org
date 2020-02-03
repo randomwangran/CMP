@@ -9,3 +9,4 @@
 ** compare with more experiments data
 ** try mesh sensitivity study
 ** try turbulence mode
+*** new turbulence model: https://github.com/OpenFOAM/OpenFOAM-dev/commit/7a717a69295812c589b469140b54b4e1aa3c4a6f
