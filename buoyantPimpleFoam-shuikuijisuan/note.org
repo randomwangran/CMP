@@ -1,5 +1,7 @@
  question url
  http://cfd-china.com/topic/3290/buoyantfoam%E6%B0%B4%E5%BA%93%E8%AE%A1%E7%AE%97/2
-
-
+* questions
+** which velocity calculating?
 ** reverse velocity is small?
+** Are you compare the velocity at the red line?
+![Probes](/ref/screen_2020-02-03_14-52-46.png)
