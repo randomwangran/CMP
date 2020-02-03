@@ -1,3 +1,12 @@
+#+SEQ_TODO: TODO(t) PRESENT(p) | HOLD(h@/!) WAIT(w@/!) DONE(d) CANCELLED(c)
+#+SEQ_TODO: sTODO(T)           | sHOLD(H@/!) sWAIT(W@/!)
+
+* cases that I am working on
+** TODO [#A] buoyantPimpleFoam-shuikuijisuan
+
+** TODO [#A] centralised
+
+** TODO TaylorBubble
 * 准备中的问题
   :PROPERTIES:
   :CUSTOM_ID: 准备中的问题
