@@ -1,6 +1,6 @@
 Avg
     {
-    type            fieldAverage;
+        type            fieldAverage;
         libs            ("libfieldFunctionObjects.so");
         writeControl    writeTime;
 
@@ -9,8 +9,15 @@ Avg
             U
             {
                 mean        on;
+                prime2Mean  on;
                 base        time;
             }
 
+            p
+            {
+                mean        on;
+                prime2Mean  on;
+                base        time;
+            }
         );
     }
