@@ -3,10 +3,11 @@
 
 * cases that I am working on
 ** TODO [#A] buoyantPimpleFoam-shuikuijisuan
-
+http://cfd-china.com/topic/3290/buoyantfoam%E6%B0%B4%E5%BA%93%E8%AE%A1%E7%AE%97/2
 ** TODO [#A] centralised
-
+https://github.com/OpenFOAM/OpenFOAM-dev/commit/7632b942183aac54ba75fefd955a84d0cdbb9a0e#comments
 ** TODO TaylorBubble
+http://www.cfd-china.com/topic/2498/%E5%A4%9A%E7%9B%B8%E6%B5%81vof
 * 准备中的问题
   :PROPERTIES:
   :CUSTOM_ID: 准备中的问题
