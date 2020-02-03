@@ -5,3 +5,7 @@
 ** reverse velocity is small?
 ** Are you compare the velocity at the red line?
 [[file:./ref/screen_2020-02-03_14-52-46.png]]
+* my thoughts
+** compare with more experiments data
+** try mesh sensitivity study
+** try turbulence mode
