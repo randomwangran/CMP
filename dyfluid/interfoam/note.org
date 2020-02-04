@@ -1,3 +1,14 @@
 data download: http://dyfluid.com/interfoam.html#testcase
 
 discussion: http://www.cfd-china.com/topic/2498/%E5%A4%9A%E7%9B%B8%E6%B5%81vof
+
+
+* video
+
+** [[https://youtu.be/qBfgQBF4Jwc][velocity magnitude contour]]
+
+*** why velocity changes at a lower frequency?
+
+*** what can you expect from the velocity contour?
+
+If you focus on alpha.water, what you will expect? what does it mean (alpha)?
