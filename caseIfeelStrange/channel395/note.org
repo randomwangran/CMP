@@ -1,0 +1,5 @@
+ref /cvmfs/soft.computecanada.ca/easybuild/software/2017/avx2/MPI/intel2016.4/openmpi2.1/openfoam/6.20180813/OpenFOAM-6.20180813/tutorials/incompressible/pimpleFoam/RAS/impeller
+
+
+I would like to compare velocity at 2 points (on cyclic bc) to see how
+accurate the cyclic b.c..
