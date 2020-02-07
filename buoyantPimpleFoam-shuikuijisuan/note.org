@@ -12,3 +12,7 @@
 *** new turbulence model: https://github.com/OpenFOAM/OpenFOAM-dev/commit/7a717a69295812c589b469140b54b4e1aa3c4a6f
 * results
 [[file:./ref/screen_2020-02-04_17-26-40.png]]
+* my action
+** TODO [#A] compare zeroGradient vs slip
+best DNS data
+** TODO [#B] compare zeroGradient and zeroGradient
