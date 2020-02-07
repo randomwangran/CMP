@@ -1,1 +1,1 @@
-Proudly powered by [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-dev)](https://github.com/OpenFOAM/OpenFOAM-dev)  [![ParaView version](https://img.shields.io/badge/paraview-5.6-green)](https://gitlab.kitware.com/paraview/paraview) and its community.
+Proudly powered by [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-dev)](https://github.com/OpenFOAM/OpenFOAM-dev)  [![ParaView version](https://img.shields.io/badge/ParaView-v5-green)](https://gitlab.kitware.com/paraview/paraview) and its community.
