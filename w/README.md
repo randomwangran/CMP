@@ -5,4 +5,9 @@ Software
 - python: https://gitlab.kwant-project.org/qt/qsymm
 - niece intro: https://gitlab.kwant-project.org/jbweston/tkwant-tutorial/tree/master
 
+#  quantum computing
+https://gitlab.kwant-project.org/jbweston/thesis/blob/master/content/abstract.tex
+
+
+
 Ref https://www.reddit.com/r/dataisbeautiful/comments/ckosy7/how_i_saved_1000_years_of_cpu_time_using_my/
