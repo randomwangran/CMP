@@ -7,5 +7,5 @@ https://github.com/chakravala/Fatou.jl/wiki/Explore-Fatou-sets-&-fractals
 
 # pde
 
-
+## SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
