@@ -2,3 +2,10 @@ I never could image [Newton–Raphson method](https://en.wikipedia.org/wiki/Newt
 
 
 https://github.com/chakravala/Fatou.jl/wiki/Explore-Fatou-sets-&-fractals
+
+
+
+# pde
+
+
+https://github.com/yijunwang0805/YijunWang/issues/2
