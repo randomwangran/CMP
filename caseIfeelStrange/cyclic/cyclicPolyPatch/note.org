@@ -1,3 +1,0 @@
-https://github.com/OpenFOAM/OpenFOAM-dev/commit/ba8e1ecd2d9151681e29016f5ac043409e68da4d
-
-https://bugs.openfoam.org/view.php?id=3447

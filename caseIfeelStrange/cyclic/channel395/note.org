@@ -1,5 +1,0 @@
-ref http://cfd-china.com/topic/1992/cyclic%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6/%E6%80%BB%E6%84%9F%E8%A7%89openFOAM%E9%87%8C%E9%9D%A2%E7%9A%84cyclic%E8%BE%B9%E7%95%8C%E6%9C%89%E9%97%AE%E9%A2%98
-
-
-I would like to compare velocity at 2 points (on cyclic bc) to see how
-accurate the cyclic b.c..
