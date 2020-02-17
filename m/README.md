@@ -4,10 +4,11 @@ I never could image [Newton–Raphson method](https://en.wikipedia.org/wiki/Newt
 https://github.com/chakravala/Fatou.jl/wiki/Explore-Fatou-sets-&-fractals
 
 * basic
-
 ** Lemniscate of Bernoulli 
 https://chaoli.club/index.php/4843/0#p51049
 
+** Divergent Series
+https://chaoli.club/index.php/4751/0#p51044
 
 * ode
 ** solving
