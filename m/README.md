@@ -3,15 +3,16 @@ I never could image [Newton–Raphson method](https://en.wikipedia.org/wiki/Newt
 
 https://github.com/chakravala/Fatou.jl/wiki/Explore-Fatou-sets-&-fractals
 
-# basic
+* basic
 
-## Lemniscate of Bernoulli 
+** Lemniscate of Bernoulli 
 https://chaoli.club/index.php/4843/0#p51049
 
-# ode
+
+* ode
+** solving
 https://chaoli.club/index.php/5039/0#p51300
 
-# pde
-
-## SEIR 
+* pde
+** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
