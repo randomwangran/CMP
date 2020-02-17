@@ -17,6 +17,9 @@ https://chaoli.club/index.php/5046/0#p51394
 ** cross-hire
 https://chaoli.club/index.php/5046
 
+** ramping function
+https://chaoli.club/index.php/5044
+
 * ode
 
 ** solving
