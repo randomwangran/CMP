@@ -14,6 +14,9 @@ https://chaoli.club/index.php/4751/0#p51044
 ** shortest path
 https://chaoli.club/index.php/5046/0#p51394
 
+** cross-hire
+https://chaoli.club/index.php/5046
+
 * ode
 
 ** solving
