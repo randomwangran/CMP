@@ -1,6 +1,6 @@
-Applied
-Celestial
-Continuum
-Dynamics Kinematics
-Kinetics
-Statics Statistical
+applied
+celestial
+continuum
+dynamics-kinematics
+kinetics
+statics-statistical
