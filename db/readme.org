@@ -8,6 +8,19 @@ https://www.zhengwenjie.net/software/thesis.pdf
 
 * how you be a spider man
 
+https://blog.isaaclin.cn/2020/ding-xiang-yuan-crawler-api-and-data-warehouse/
+
+丁香园的这个爬虫本身十分简单，第一个版本大约用了2个小时就完成了。包括一个爬虫脚本和一个数据库脚本，爬虫将获取到的数据做初步的处理，并储存到数据库中，逻辑十分简单。
+
+说是叫爬虫，其实一共只完成了一次请求，丁香园应该是有意为之，至今没有任何反爬虫措施，爬虫到现在都运转良好。虽然我对爬虫和所有反爬虫的绕开方式都挺有信心，但如果有反爬机制，可能开发的耗时会严重延长，而且一旦有反爬虫，我也不太敢做数据共享了。
+
+对于大部分的数据我都选择直接保留而并没有做数据清理，一方面是实时数据流无法回溯，一次错过就再也无法取得，另一方面是数据更新频率比较低，就算全盘保存也并不会占用太多的硬盘。
+
+我并没有接触过其他数据库，一开始莫名其妙地用上了MongoDB之后，不论什么数据都是往MongoDB里硬塞。通过PyMongo可以很方便地实现MongoDB和Python的交互。不用建表的数据库用起来十分简单，开一个Database之后，甚至不用开Collection就可以直接往里面存放数据。
+
+爬虫和数据库做好之后，就可以开始正常获取数据并存放到数据库中了。
+
+
 https://github.com/BlankerL/DXY-COVID-19-Crawler/blob/master/service/crawler.py
 
 https://github.com/BlankerL/DXY-COVID-19-Crawler/blob/master/service/db.py
