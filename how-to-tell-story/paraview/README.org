@@ -36,7 +36,6 @@ the head is so cool
 
 
 ** BigBrain Project 
-
 what's this project?
 
 ** Custom labels 
@@ -46,11 +45,9 @@ what's this project?
 ** Cropping volume rendering is so beatiful
 
 ** New Billboard and Flagpole mode for Text source
-
 this is really useful.
 
 ** Explicit refinement for line source points
-
 What does it mean?
 
 ** Lagrangian Particle Tracker?
@@ -58,5 +55,10 @@ What does it mean?
 ** Larger icons is useful for a my poor eyes.
 
 ** Light widgets
-
 super cool. Now I have beam in ParaView.
+
+
+
+* how the story was told?
+https://twitter.com/kitware/status/1029769512558768128
+how they did this?
