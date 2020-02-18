@@ -3,3 +3,10 @@
 > Of course, it is not a panacea solving all Big Data problems, but it is a milestone upon which readers can build their own work.
 
 https://www.zhengwenjie.net/software/thesis.pdf
+
+
+
+* how you be a spider man
+
+https://github.com/BlankerL/DXY-COVID-19-Crawler/blob/master/service/crawler.py
+https://github.com/BlankerL/DXY-COVID-19-Crawler/blob/master/service/db.py
