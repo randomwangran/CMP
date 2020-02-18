@@ -5,7 +5,7 @@ These are my reaserch interests.
 
 I am interested in everything.
 
-And I like to use git to track everything.
+And I like to use git to track everything_.
 
 It is good for me.
 
@@ -14,4 +14,4 @@ It is good for me.
 
 What to know more?
 
-Check my software: https://github.com/randomwangran/TEM
+Check my software_: https://github.com/randomwangran/TEM
