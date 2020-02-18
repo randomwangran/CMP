@@ -1,0 +1,5 @@
+aachenBomb
+
+https://discourse.paraview.org/t/how-do-i-make-a-illustration-of-particles-in-a-tube/3586/7
+
+https://github.com/OpenFOAM/OpenFOAM-6/tree/master/tutorials/lagrangian/sprayFoam/aachenBomb
