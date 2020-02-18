@@ -12,3 +12,51 @@ https://kitware.github.io/paraview-docs/latest/cxx/classvtkSMStateLoader.html
 * communicate with computer
 ** reg
 https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md
+
+
+
+* new features
+
+5.8 
+https://discourse.paraview.org/t/paraview-5-8-0-is-now-available-for-download/3592/2
+
+** Hyper Tree Grids
+what is ghost cells?
+
+
+> A visualization metric is also proposed so you can, for example, decide to subdivide using entropy while being able to visualize the arithmetic mean.
+what does it mean?
+
+
+** Calculator
+what is vtkTable?
+
+** Physically based rendering
+the head is so cool
+
+
+** BigBrain Project 
+
+what's this project?
+
+** Custom labels 
+
+** Linear camera?
+
+** Cropping volume rendering is so beatiful
+
+** New Billboard and Flagpole mode for Text source
+
+this is really useful.
+
+** Explicit refinement for line source points
+
+What does it mean?
+
+** Lagrangian Particle Tracker?
+
+** Larger icons is useful for a my poor eyes.
+
+** Light widgets
+
+super cool. Now I have beam in ParaView.
