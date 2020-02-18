@@ -12,6 +12,6 @@ It is good for me.
 [It is good for other people.](https://www.zhengwenjie.net/configuration/)
 
 
-What to know more?
+Want to know more?
 
 Check my software_: https://github.com/randomwangran/TEM
