@@ -30,6 +30,10 @@ https://chaoli.club/index.php/5039/0#p51300
 ** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
 
+*** Quantum transport simulations
+try play this transport equation with Quantum transport simulations
+https://kwant-project.org/
+
 ** can you descript the skin using a function when the thing hits the thing
 https://youtu.be/uynBcLr8fEc?t=517
 
