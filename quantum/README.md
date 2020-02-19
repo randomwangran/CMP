@@ -11,3 +11,8 @@ https://gitlab.kwant-project.org/jbweston/thesis/blob/master/content/abstract.te
 
 
 Ref https://www.reddit.com/r/dataisbeautiful/comments/ckosy7/how_i_saved_1000_years_of_cpu_time_using_my/
+
+
+## solve wave functions?
+
+https://gitlab.kwant-project.org/kwant/kwant
