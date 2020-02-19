@@ -32,3 +32,9 @@ https://github.com/yijunwang0805/YijunWang/issues/2
 
 ** can you descript the skin using a function when the thing hits the thing
 https://youtu.be/uynBcLr8fEc?t=517
+
+
+* ?
+
+** why two branches?
+https://youtu.be/ovJcsL7vyrk?t=230
