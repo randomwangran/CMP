@@ -35,8 +35,11 @@ try play this transport equation with Quantum transport simulations
 https://kwant-project.org/
 
 ** can you descript the skin using a function when the thing hits the thing
+
 https://youtu.be/uynBcLr8fEc?t=517
 
+it's similar like this paper Fig. 19 (a)
+https://www.researchgate.net/publication/304712463_Manufacture_and_Mechanics_of_Topologically_Interlocked_Material_Assemblies
 
 * ?
 
