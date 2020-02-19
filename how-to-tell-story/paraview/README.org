@@ -62,3 +62,5 @@ super cool. Now I have beam in ParaView.
 * how the story was told?
 https://twitter.com/kitware/status/1029769512558768128
 how they did this?
+** follow up how you do this
+https://discourse.paraview.org/t/is-there-a-glowing-i-e-emitting-light-effect-for-objects/3593
