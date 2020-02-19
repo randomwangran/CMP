@@ -28,5 +28,6 @@ https://chaoli.club/index.php/5039/0#p51300
 * pde
 ** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
+
 ** can you descript the skin using a function when the thing hits the thing.
 https://www.youtube.com/watch?v=uynBcLr8fEc
