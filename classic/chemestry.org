@@ -7,6 +7,12 @@ https://chaoli.club/index.php/5038/0#p51331
 
 https://chaoli.club/index.php/5015
 
+* [Aromaticity](https://en.wikipedia.org/wiki/Aromaticity)
+
+https://chaoli.club/index.php/5053
+
+
+
 * software
 - Gaussian
 - Multiwfn
