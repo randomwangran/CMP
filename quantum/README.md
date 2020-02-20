@@ -14,5 +14,5 @@ Ref https://www.reddit.com/r/dataisbeautiful/comments/ckosy7/how_i_saved_1000_ye
 
 
 ## solve wave functions?
-
+mysterious group playing numerical quantum transport calculations
 https://gitlab.kwant-project.org/kwant/kwant
