@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/log/logo-physics.png" width=150 height=150/></p>
+<p align="center"><img src="assets/physics-black-white.png" width=150 height=150/></p>
 <p align="center"><a href="https://www.gnu.org/software/emacs/"><b>TEM</b></a></p>
 <p align="center">
 	<a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/GNU%20Emacs-27.0.50-b48ead.svg?style=flat-square"/></a>
