@@ -1,0 +1,3 @@
+[submodule "assets/logo"]
+	path = assets/logo
+	url = git@github.com:randomwangran/logo-physics.git
