@@ -1,3 +1,7 @@
 # 应力张量如何理解？
 
-> 为什么应力张量有9个分量，张量是对一点来说的还是面？对流体微元或控制体而言，不同面上的张量一样吗？
+> 为什么应力张量有9个分量
+
+- when we talk about tensor, we need first to talk about what is **complex number**.
+
+
