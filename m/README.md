@@ -45,7 +45,11 @@ $$
 \frac{d N}{N}=d(\ln N)=-\alpha d t
 $$
 
+**** but question: can we rewirte it into something like this?
 
+$$
+N(t)=N_{0} e^{-\frac{t}{\tau}}
+$$
 
 *** Quantum transport simulations
 try play this transport equation with Quantum transport simulations
