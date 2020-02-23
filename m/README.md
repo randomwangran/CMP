@@ -30,6 +30,23 @@ https://chaoli.club/index.php/5039/0#p51300
 ** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
 
+*** it looks like this equation
+$$
+\frac{d \ln x}{d x}=\frac{1}{x}
+$$
+
+then:
+$$
+\frac{d x}{x}=d(\ln x)
+$$
+
+finally, you got:
+$$
+\frac{d N}{N}=d(\ln N)=-\alpha d t
+$$
+
+
+
 *** Quantum transport simulations
 try play this transport equation with Quantum transport simulations
 https://kwant-project.org/
