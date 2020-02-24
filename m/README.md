@@ -29,6 +29,10 @@ https://chaoli.club/index.php/5039/0#p51300
 
 ** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
+*** prediction https://github.com/yijunwang0805/YijunWang/commit/8ecd7ae7abab9a35f4ac08b0b8fb59f495553527
+> This study seeks to forecast the peak time of SARS-CoV-2 cases. We find, under the assumptions of no quaratine intervention, Wuhan reach peak infectiouson March 3, 2020; Beijing, Shanghai, and Guangzhou would each peak infectious in the middle of May.
+> Sensitivity analysis shows that reducing half of the number of catchment size and the reproductive number would reduce the magnitude of epidemic by more than 60%, while lengthening the peak to June and duration of the epidemic to August.
+
 
 *** it looks like this equation
 $$
