@@ -26,6 +26,8 @@ https://chaoli.club/index.php/5044
 https://chaoli.club/index.php/5039/0#p51300
 
 * pde
+** what's the math?
+https://youtu.be/wvJAgrUBF4w?t=48
 
 ** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
