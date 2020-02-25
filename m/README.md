@@ -29,6 +29,9 @@ https://chaoli.club/index.php/5039/0#p51300
 ** what's the math?
 https://youtu.be/wvJAgrUBF4w?t=48
 
+- how the plate vibrate?
+- can I compute this?
+
 ** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
 *** prediction https://github.com/yijunwang0805/YijunWang/commit/8ecd7ae7abab9a35f4ac08b0b8fb59f495553527
