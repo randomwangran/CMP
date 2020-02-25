@@ -77,3 +77,8 @@ https://www.researchgate.net/publication/304712463_Manufacture_and_Mechanics_of_
 
 ** why two branches?
 https://youtu.be/ovJcsL7vyrk?t=230
+
+* reverse parabla?
+https://youtu.be/DC4uU_157oo?t=277
+https://youtu.be/ovJcsL7vyrk?t=96
+any relation?
