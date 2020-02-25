@@ -31,6 +31,8 @@ https://youtu.be/wvJAgrUBF4w?t=48
 
 - how the plate vibrate?
 - can I compute this?
+** helirical s shape
+https://youtu.be/Q3oItpVa9fs?t=84
 
 ** SEIR 
 https://github.com/yijunwang0805/YijunWang/issues/2
