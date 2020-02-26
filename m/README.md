@@ -1,4 +1,4 @@
-[Dude：will you come down, and we do some math.](https://youtu.be/8XkcbdSRdO0?t=606)
+[Dude：will you come down, and we do some math.](https://youtu.be/9reizHjwuNY?t=113)
 
 I never could image [Newton–Raphson method](https://en.wikipedia.org/wiki/Newton%27s_method) could related to such wonderful mathmatical world.
 
