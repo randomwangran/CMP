@@ -5,5 +5,7 @@ https://marinecfd.xyz/post/openfoam-object-registry/
 > 对象注册（object registry）机制是 OpenFOAM 的一大特点。对象注册所做的工作可以总结为一句话：在内存中利用树状结构组织数据，并实现数据的管理及输入输出。
 
 > 在内存中利用树状结构组织数据
+
 Can we use other structure other than binary tree?
+
 > 这里的树状结构并不是二叉树。树状结构能体现数据之间的层级关系，比较合理。
