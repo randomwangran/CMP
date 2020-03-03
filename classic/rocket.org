@@ -1,0 +1,3 @@
+* build a rocket
+** FEA
+that's what FEA is all about: https://youtu.be/o0fG_lnVhHw?t=538
