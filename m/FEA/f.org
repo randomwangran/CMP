@@ -1,1 +1,3 @@
 * [[http://www.lstc.com/][ls-dyna]] contacting
+* [[https://mfem.org/][MFEM: Arbitrary high-order]]
+* [[https://www.dealii.org/][Deal.ii:well-documented tools]]
