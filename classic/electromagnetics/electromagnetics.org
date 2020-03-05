@@ -1,0 +1,10 @@
+* [[https://en.wikipedia.org/wiki/Electromagnetism][electromagnetism]]
+
+** [[http://www.geophy.cn/CN/abstract/abstract14810.shtml][A multi-scale grid scheme in three-dimensional transient electromagnetic modeling using FDTD]]
+** [[https://meep.readthedocs.io/en/latest/][MEEP: FDTD]]
+paper: https://reader.elsevier.com/reader/sd/pii/S001046550900383X?token=3B104ACB10AC33E8DA9556CB632B5AE04766E4CE70731F760BF0D9D42C6F9A438AEE683F6C1AD97444415FE9070CA314
+** [[https://www.researchgate.net/publication/250377635_EMMA-A_Geophysical_Training_and_Education_Tool_for_Electromagnetic_Modeling_and_Analysis][EMMA: A Geophysical Training and Education Tool for Electromagnetic Modeling and Analysis]]
+software: https://hgg.au.dk/software/emma/
+
+* It's finally the time to take the wifi images
+https://youtu.be/g3LT_b6K0Mc?t=71
