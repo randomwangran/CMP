@@ -1,0 +1,2 @@
+* [[https://en.wikipedia.org/wiki/Finite-difference_time-domain_method][FDT]]
+** [[https://meep.readthedocs.io/en/latest/][meep eletromagnetics]]
