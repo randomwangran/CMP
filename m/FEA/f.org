@@ -1,3 +1,5 @@
 * [[http://www.lstc.com/][ls-dyna]] contacting
 * [[https://mfem.org/][MFEM: Arbitrary high-order]]
 * [[https://www.dealii.org/][Deal.ii:well-documented tools]]
+* [[https://www.code-aster.org/][code aster: Structures and Thermomechanics]]
+** code (GPL v3): https://www.code-aster.org/spip.php?article272
