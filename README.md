@@ -10,3 +10,6 @@ yourself—and you are the easiest person to fool." - R.P. Feynman</p>
 ---
 
 Proudly powered by [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-dev)](https://github.com/OpenFOAM/OpenFOAM-dev)  [![ParaView version](https://img.shields.io/badge/ParaView-v5-green)](https://gitlab.kitware.com/paraview/paraview), its community and interesting people all over the world.
+
+
+-- check Feynman's twitter: https://twitter.com/ProfFeynman
