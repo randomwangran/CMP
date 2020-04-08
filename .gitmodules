@@ -1,3 +1,6 @@
 [submodule "assets/logo"]
 	path = assets/logo
 	url = git@github.com:randomwangran/logo-physics.git
+[submodule "classic/viv"]
+	path = classic/viv
+	url = git@github.com:randomwangran/viv.git
