@@ -1,6 +1,1 @@
-数论基础
-算术基本定理
-剩余类
-算术函数
-数环与数域
-代数数论
+https://github.com/zhcosin/elementary-math

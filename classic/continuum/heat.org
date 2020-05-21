@@ -1,2 +1,6 @@
 * simulate this OF?
 https://youtu.be/ovJcsL7vyrk?t=656
+* Rayleigh–Bénard convection
+[[pdftools:~/Dropbox/myPdfLib/dbSuiPian/f2e213223a1c4303baf1e0ebeb53cdc4.pdf::1++0.00;;annot-1-25][intro on wiki]]
+- video: https://www.youtube.com/watch?v=QRBLwrDm8gk
+- of app: https://github.com/randomwangran/OpenFOAM-personal-collection/blob/f3ca8bc2482af5f88a05c3b6a169eafc46dae3fa/OpenFOAM-7-master/applications/solvers/heatTransfer/buoyantPimpleFoam/buoyantPimpleFoam.C
